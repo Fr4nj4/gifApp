@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test GifGridItem should render item correctly  1`] = `
+<div
+  className="card animate__animated animate__fadeInUp"
+>
+  <img
+    alt="naruto shippuden GIF"
+    src="https://media3.giphy.com/media/4gsjHZMPXdlGo/giphy.gif?cid=b3da8313ttx2xt6c4wdcqokp6mxlu2l93im34kr66cvylucq&rid=giphy.gif&ct=g"
+  />
+  <p>
+    naruto shippuden GIF
+  </p>
+</div>
+`;
